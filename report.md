@@ -69,8 +69,8 @@ This approach is promising for real-world applications where both accuracy and e
 - Experiment with Transformer-based architectures (Temporal Fusion Transformer, Informer)  
 - Deploy as an API or interactive dashboard  
 
----
-
+---##Author
+-Bhuvaneswari
 ## 9. References
 - UCI Machine Learning Repository: Household Electric Power Consumption Dataset  
 - Vaswani et al., *Attention is All You Need* (2017)  
