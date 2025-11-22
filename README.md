@@ -77,7 +77,7 @@ Try Transformer-based architectures (Temporal Fusion Transformer, Informer)
 Deploy as a forecasting API or dashboard
 
  Author
-Fathima
+Thiripura sundari
 
 Bilingual (English & Tamil) data science learner
 
